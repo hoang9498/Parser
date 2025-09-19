@@ -26,7 +26,7 @@ Cho ngôn ngữ lập trình UPL với các đặc điểm như sau:
 
 - Các phép toán cộng (+) và nhân (*) cho số nguyên. * được ưu tiên hơn +. Lập trình viên có thể sử dụng dấu ngoặc () để xác định lại thứ tự tính toán
 
--Có cơ chế comment như của Java (nghĩa là có cả /*...*/ và //...)
+- Có cơ chế comment như của Java (nghĩa là có cả /*...*/ và //...)
 
 Example:
 
